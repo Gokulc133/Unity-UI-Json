@@ -13,18 +13,16 @@
                 "y": 1
             },
             "color": {
-                "r": 255,
+                "r": 0,
                 "g": 255,
-                "b": 255,
+                "b": 0,
                 "a": 255
             },
             "rectTransform": {
                 "width": 200,
                 "height": 150
-            },
-            "image": {
-                "source": "/Assets/04_UI/submit.png"
             }
+            
         },
         {
             "name": "Button1",
@@ -47,10 +45,14 @@
             "rectTransform": {
                 "width": 100,
                 "height": 30
-            },
-            "image": {
-                "source": "Assets/04_UI/submit.png"
             }
         }
     ]
 }
+
+
+
+
+
+
+
